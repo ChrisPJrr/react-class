@@ -1,3 +1,3 @@
-# node-course
+# react-course
 
-Self-taught node course took at Udemy.
+Self-taught react course took at Udemy.
